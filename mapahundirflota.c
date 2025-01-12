@@ -256,19 +256,21 @@ int main() {
 return 0;
 }
 
-// Función para colocar todos los barcos
+// Función para colocar todos los barcos Roger
 
-// Función para atacar
+// Función para atacar Max
 
-// Función para el turno del jugador
+// Función para el turno del jugador (actualizar el tablero después de cada turno) Max
 
-// Función para el turno de la máquina
+// Función para el turno de la máquina (actualizar el tablero después de cada turno) Max
 
-// Función para verificar e fin del juego
+// Función para verificar e fin del juego Vozh
 
-// Función para llevar un contador de turnos y almacenar las mejores puntuaciones
+// Función para llevar un contador de turnos y almacenar y actualizar las mejores puntuaciones Vozh 
 
-// Función main
+// Función para mostrar las mejores puntuaciones Vozh
+
+// Función main Todos
 
 
 
